@@ -1,0 +1,15 @@
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/Task_4.csproj.AssemblyReference.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfoInputs.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfo.cs
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/Task_4.csproj.CoreCompileInputs.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/bin/Debug/net6.0/Task_4
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/bin/Debug/net6.0/Task_4.deps.json
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/bin/Debug/net6.0/Task_4.runtimeconfig.json
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/bin/Debug/net6.0/Task_4.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/bin/Debug/net6.0/Task_4.pdb
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/Task_4.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/refint/Task_4.dll
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/Task_4.pdb
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/Task_4.genruntimeconfig.cache
+/Users/alina/Desktop/Алина/Программирование/Data sciece GB/С#/HomeWork2/Task_4/obj/Debug/net6.0/ref/Task_4.dll
